@@ -1,0 +1,330 @@
+Produc Name: Cheese
+Product Id: 0
+Product Category: Dairy
+Cost Price: 15.90
+Product Sell ptice: 24.90
+Product Quantity: 100
+Product Receive Date: 16-07-2019
+Product Expire Date: 21-12-2019
+Product Supplier: Tnuva
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Milk 3%
+Product Id: 1
+Product Category: Dairy
+Cost Price: 4.00
+Product Sell ptice: 5.50
+Product Quantity: 100
+Product Receive Date: 16-07-2019
+Product Expire Date: 26-07-2019
+Product Supplier: Tnuva
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Hamburger
+Product Id: 2
+Product Category: Meat
+Cost Price: 31.00
+Product Sell ptice: 37.90
+Product Quantity: 50
+Product Receive Date: 16-07-2019
+Product Expire Date: 14-03-2020
+Product Supplier: Zoglobeg
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Kebab
+Product Id: 3
+Product Category: Meat
+Cost Price: 17.50
+Product Sell ptice: 21.50
+Product Quantity: 50
+Product Receive Date: 16-07-2019
+Product Expire Date: 10-01-2020
+Product Supplier: Zoglobeg
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Cucumber
+Product Id: 4
+Product Category: Vegetables
+Cost Price: 3.90
+Product Sell ptice: 7.90
+Product Quantity: 200
+Product Receive Date: 16-07-2019
+Product Expire Date: 15-10-2019
+Product Supplier: Pri Hasade
+Product Weight: Per 1kg
+-----------------------------------------------
+Produc Name: Tomatoes
+Product Id: 5
+Product Category: Vegetables
+Cost Price: 4.90
+Product Sell ptice: 8.90
+Product Quantity: 200
+Product Receive Date: 16-07-2019
+Product Expire Date: 15-10-2019
+Product Supplier: Pri Hasade
+Product Weight: Per 1kg
+-----------------------------------------------
+Produc Name: Apple
+Product Id: 6
+Product Category: Fruits
+Cost Price: 4.90
+Product Sell ptice: 6.90
+Product Quantity: 150
+Product Receive Date: 16-07-2019
+Product Expire Date: 14-10-2019
+Product Supplier: Pri Hasade
+Product Weight: Per 1kg
+-----------------------------------------------
+Produc Name: Watermelon
+Product Id: 7
+Product Category: Fruits
+Cost Price: 1.00
+Product Sell ptice: 1.90
+Product Quantity: 150
+Product Receive Date: 16-07-2019
+Product Expire Date: 10-10-2019
+Product Supplier: Pri Hasade
+Product Weight: Per 1kg
+-----------------------------------------------
+Produc Name: Pickles
+Product Id: 8
+Product Category: Canning
+Cost Price: 4.60
+Product Sell ptice: 7.60
+Product Quantity: 75
+Product Receive Date: 16-07-2019
+Product Expire Date: 15-12-2019
+Product Supplier: Beit Hashita
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Maize
+Product Id: 9
+Product Category: Canning
+Cost Price: 3.40
+Product Sell ptice: 5.40
+Product Quantity: 75
+Product Receive Date: 16-07-2019
+Product Expire Date: 15-12-2019
+Product Supplier: Yachin
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Ketchup
+Product Id: 10
+Product Category: Sauce
+Cost Price: 8.90
+Product Sell ptice: 11.90
+Product Quantity: 120
+Product Receive Date: 16-07-2019
+Product Expire Date: 20-04-2020
+Product Supplier: Heinz
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Mayonnaise
+Product Id: 11
+Product Category: Sauce
+Cost Price: 3.80
+Product Sell ptice: 6.80
+Product Quantity: 120
+Product Receive Date: 16-07-2019
+Product Expire Date: 14-04-2020
+Product Supplier: Telma
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Bamba
+Product Id: 12
+Product Category: Snacks
+Cost Price: 3.00
+Product Sell ptice: 5.00
+Product Quantity: 250
+Product Receive Date: 16-07-2019
+Product Expire Date: 16-07-2020
+Product Supplier: Osem
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Chips
+Product Id: 13
+Product Category: Snacks
+Cost Price: 2.00
+Product Sell ptice: 3.50
+Product Quantity: 250
+Product Receive Date: 16-07-2019
+Product Expire Date: 16-07-2020
+Product Supplier: TapuChips
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Burrekas
+Product Id: 14
+Product Category: Bakery
+Cost Price: 13.50
+Product Sell ptice: 19.70
+Product Quantity: 50
+Product Receive Date: 16-07-2019
+Product Expire Date: 10-02-2020
+Product Supplier: Maadanot
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Bread
+Product Id: 15
+Product Category: Bakery
+Cost Price: 5.00
+Product Sell ptice: 8.50
+Product Quantity: 250
+Product Receive Date: 16-07-2019
+Product Expire Date: 21-07-2019
+Product Supplier: Lechem Haaretz
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Toilet Paper
+Product Id: 16
+Product Category: Cleaning
+Cost Price: 35.00
+Product Sell ptice: 49.90
+Product Quantity: 400
+Product Receive Date: 16-07-2019
+Product Expire Date: 15-07-2021
+Product Supplier: Lili
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Ruuber Gloves
+Product Id: 17
+Product Category: Cleaning
+Cost Price: 11.90
+Product Sell ptice: 19.90
+Product Quantity: 200
+Product Receive Date: 16-07-2019
+Product Expire Date: 15-07-2021
+Product Supplier: Sano
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Cola
+Product Id: 18
+Product Category: Drinks
+Cost Price: 5.00
+Product Sell ptice: 6.00
+Product Quantity: 220
+Product Receive Date: 16-07-2019
+Product Expire Date: 21-07-2020
+Product Supplier: Coca-Cola
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Fuze-Tea
+Product Id: 19
+Product Category: Drinks
+Cost Price: 5.50
+Product Sell ptice: 6.50
+Product Quantity: 220
+Product Receive Date: 16-07-2019
+Product Expire Date: 23-07-2020
+Product Supplier: Coca-Cola
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Salt
+Product Id: 20
+Product Category: Spice
+Cost Price: 5.00
+Product Sell ptice: 7.90
+Product Quantity: 350
+Product Receive Date: 16-07-2019
+Product Expire Date: 17-08-2020
+Product Supplier: Melach-Haaretz
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Sugar
+Product Id: 21
+Product Category: Spice
+Cost Price: 6.00
+Product Sell ptice: 7.90
+Product Quantity: 220
+Product Receive Date: 16-07-2019
+Product Expire Date: 16-07-2022
+Product Supplier: Sugat
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Rice
+Product Id: 22
+Product Category: Grain
+Cost Price: 10.00
+Product Sell ptice: 12.80
+Product Quantity: 140
+Product Receive Date: 16-07-2019
+Product Expire Date: 12-12-2021
+Product Supplier: Sugat
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Quinoa
+Product Id: 23
+Product Category: Grain
+Cost Price: 9.70
+Product Sell ptice: 13.90
+Product Quantity: 130
+Product Receive Date: 16-07-2019
+Product Expire Date: 12-12-2021
+Product Supplier: Sugat
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Coriander
+Product Id: 24
+Product Category: Leavs
+Cost Price: 1.90
+Product Sell ptice: 3.90
+Product Quantity: 75
+Product Receive Date: 17-07-2019
+Product Expire Date: 17-12-2020
+Product Supplier: Pri Hasade
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Parsley
+Product Id: 25
+Product Category: Leavs
+Cost Price: 1.90
+Product Sell ptice: 3.90
+Product Quantity: 130
+Product Receive Date: 17-07-2019
+Product Expire Date: 17-12-2019
+Product Supplier: Pri Hasade
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Vodka
+Product Id: 26
+Product Category: Alcohol
+Cost Price: 80.00
+Product Sell ptice: 99.90
+Product Quantity: 50
+Product Receive Date: 17-07-2019
+Product Expire Date: 15-07-2020
+Product Supplier: Beluga
+Product Weight: Per 1kg
+-----------------------------------------------
+Produc Name: Whiskey
+Product Id: 27
+Product Category: Alcohol
+Cost Price: 75.50
+Product Sell ptice: 89.90
+Product Quantity: 50
+Product Receive Date: 17-07-2019
+Product Expire Date: 15-07-2020
+Product Supplier: Jack Daniels
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Tea
+Product Id: 28
+Product Category: Hot Drinks
+Cost Price: 9.50
+Product Sell ptice: 12.90
+Product Quantity: 180
+Product Receive Date: 17-07-2019
+Product Expire Date: 17-07-2022
+Product Supplier: Wissotzky
+Product Weight: Regular
+-----------------------------------------------
+Produc Name: Coffee
+Product Id: 29
+Product Category: Hot Drinks
+Cost Price: 15.00
+Product Sell ptice: 21.90
+Product Quantity: 180
+Product Receive Date: 17-07-2019
+Product Expire Date: 14-07-2021
+Product Supplier: Elite
+Product Weight: Regular
+-----------------------------------------------
