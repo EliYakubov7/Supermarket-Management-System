@@ -30,6 +30,8 @@ You can change the logic of the code without changing anything in the view. (lik
 ![ Invoice screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/Invoice%20screen.png)
 
 
-## Author
+## Authors
 
-* **Gal Reshef S** - *Initial work* - [Github](https://github.com/EliYakubov7), [Linkedin](https://www.linkedin.com/in/eli-yakubov-961908173)
+* **Eliyahu Yakubov** - *Initial work* - [Github](https://github.com/EliYakubov7), [Linkedin](https://www.linkedin.com/in/eli-yakubov-961908173)
+* **Gal Reshef S** - *Initial work* - [Github](https://github.com/galsreshef)
+* **Barak Ated** - *Initial work* - [Github](https://github.com/barak03)
