@@ -1,9 +1,5 @@
 # SuperMarket Management System
 
-### Youtube
-[!<img src="https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/youtube.png" width="500">
-](https://youtu.be/AvsPL_TQZ4M "YouTube Video")
-
 ## About the project :
 #### This system was made in JAVA.
 The system includes a point of sale system also it manages employees, customer and store inventory management.
@@ -13,6 +9,10 @@ The system includes a point of sale system also it manages employees, customer a
 - Code is separated between view and the "behind-the-scenes" code. 
 You can change the logic of the code without changing anything in the view. (like using an API) 
 - There are also Junit test files for testsing invalid input in the system.
+
+### Youtube
+[!<img src="https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/youtube.png" width="500">
+](https://youtu.be/AvsPL_TQZ4M "YouTube Video")
 
 ### Main Menu screen
 ![Main Screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/main%20screen.png)
