@@ -14,11 +14,11 @@ You can change the logic of the code without changing anything in the view. (lik
 [!<img src="https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/youtube.png" width="500">
 ](https://youtu.be/AvsPL_TQZ4M "YouTube Video")
 
-### Main Menu screen
-![Main Screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/main%20screen.png)
-
 ### Login screen
 ![Log in screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/Log%20in%20screen.png)
+
+### Main Menu screen
+![Main Screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/main%20screen.png)
 
 ### Managment screen
 ![Managment screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/Managment%20screen.png)
