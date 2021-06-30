@@ -11,23 +11,23 @@ You can change the logic of the code without changing anything in the view. (lik
 - There are also Junit test files for testsing invalid input in the system.
 
 ### Youtube
-[!<img src="https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/youtube.png" width="500">
+[!<img src="https://github.com/EliYakubov7/Supermarket-Management-System/blob/master/Supermarket-Management-System/SuperMarket-Management-System/screenshots/youtube.png" width="500">
 ](https://youtu.be/TCreQP8XK08 "YouTube Video")
 
 ### Login screen
-![Log in screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/Log%20in%20screen.png)
+![Log in screen](https://github.com/EliYakubov7/Supermarket-Management-System/blob/master/Supermarket-Management-System/SuperMarket-Management-System/screenshots/Log%20in%20screen.png)
 
 ### Main Menu screen
-![Main Screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/main%20screen.png)
+![Main Screen](https://github.com/EliYakubov7/Supermarket-Management-System/blob/master/Supermarket-Management-System/SuperMarket-Management-System/screenshots/main%20screen.png)
 
 ### Managment screen
-![Managment screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/Managment%20screen.png)
+![Managment screen](https://github.com/EliYakubov7/Supermarket-Management-System/blob/master/Supermarket-Management-System/SuperMarket-Management-System/screenshots/Managment%20screen.png)
 
 ### Product screen
-![Product screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/Product%20screen.png)
+![Product screen](https://github.com/EliYakubov7/Supermarket-Management-System/blob/master/Supermarket-Management-System/SuperMarket-Management-System/screenshots/Product%20screen.png)
 
 ### Invoice screen
-![ Invoice screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/Invoice%20screen.png)
+![ Invoice screen](https://github.com/EliYakubov7/Supermarket-Management-System/blob/master/Supermarket-Management-System/SuperMarket-Management-System/screenshots/Invoice%20screen.png)
 
 
 ## Authors
