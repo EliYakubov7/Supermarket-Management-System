@@ -12,7 +12,7 @@ You can change the logic of the code without changing anything in the view. (lik
 
 ### Youtube
 [!<img src="https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/youtube.png" width="500">
-](https://youtu.be/AvsPL_TQZ4M "YouTube Video")
+](https://youtu.be/TCreQP8XK08 "YouTube Video")
 
 ### Login screen
 ![Log in screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/Log%20in%20screen.png)
